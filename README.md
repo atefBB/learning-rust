@@ -1,1 +1,1 @@
-# learning-rust
+# Learning Rust
